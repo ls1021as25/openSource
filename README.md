@@ -1,2 +1,5 @@
 # gitTest1
-## Lee, Seol
+## Lee, Seo
+
+*this is text
+*don't worry about this
